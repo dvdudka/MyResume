@@ -65,14 +65,23 @@ body {
     font-weight: bold;
 }
 
-.projects-item-text,
+.projects-item-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px;
+}
+
+
 .projects-item-link {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
     color: #595959;
-    margin-left: 5px;
+    margin-left: 0px;
 }
 
 .projects-item-bracket {
