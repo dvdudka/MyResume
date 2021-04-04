@@ -35,6 +35,10 @@ body {
     padding: 0px 105px 30px 88px; 
 }
 
+.projects-item-link {
+    color: #000000;
+}
+
 .my-work-experience-section {
     padding: 0px 115px 30px 88px;
 }
