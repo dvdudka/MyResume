@@ -12,6 +12,8 @@ body {
     width: 1200px;
     background-color: #FFFFFF;
     margin: 40px auto;
+    background: #F5F7FA;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 .about-me-profession {
