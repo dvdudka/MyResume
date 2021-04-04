@@ -109,25 +109,31 @@ body {
   }
 
 .fa-phone {
-    font-size:16px; color:#fff;  
+    font-size:18px; color:#fff;
+    text-align: right;  
 } 
 
 .fa-envelope {
-    font-size:16px; color:#fff;  
+    font-size:16px; color:#fff;
+    text-align: right;     
 } 
 
 .fa_custom {
     color: #fff;
+    text-align: right;  
+    font-size:18px;  
 }
 
 .fa-skype{
     color: #fff;
     font-size:18px;
+    text-align: right;    
 }
 
 .fa-map-marker{
     color: #fff;
-    font-size:20px;
+    font-size:22px;
+    text-align: right;   
 }
     
 .si-linkedin {
