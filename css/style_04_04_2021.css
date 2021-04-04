@@ -69,6 +69,7 @@ body {
 }
 
 .contacts-section, 
+.key-words-section,
 .tech-skills-section,
 .soft-skills-section,
 .language-skills-section {
@@ -139,15 +140,31 @@ body {
 .si-linkedin {
     color:#004182;
 }
+
+ /* Key Words Section*/  
+.key-words-list {
+    padding: 0px 0px 0px 18px;
+  }
+
+.key-words-item {
+    color: #FB6D3A;    
+}
+
+.key-words-item-name {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;    
+}
   
   /* Tech Skills Section */
-  .tech-skills-list {
+.tech-skills-list {
     padding: 0px 0px 0px 18px;
   }
 
 .tech-skills-item {
     color: #FB6D3A;
-
 }
 
 .tech-skills-item-name {
