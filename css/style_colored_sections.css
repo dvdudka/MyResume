@@ -1,0 +1,100 @@
+body {
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #FFFFFF;
+    margin: 40px auto;
+}
+
+/* .main-content-section {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;    
+} */
+
+.about-me-profession {
+    color: #000;
+    width: 153px;
+    height: 17px;
+    left: 498px;
+    top: 142px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+} 
+
+.about-me-section{
+    background: rgb(240, 245, 177);
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+/* .about-me-profession {
+    color: #000;
+    position: absolute;
+    width: 153px;
+    height: 17px;
+    left: 498px;
+    top: 142px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+} */
+
+.my-projects-section {
+    background-color: rgb(176, 176, 245);
+    
+}
+
+.my-work-experience-section {
+    background-color: rgb(211, 169, 250);
+}
+
+.my-education-section {
+    background: rgb(173, 241, 167);
+}
+
+.side-bar-section {
+    background-color: #1E2939;    
+}
+
+/* h3 {
+    font: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 26.82px;
+
+}
+
+h4 {
+
+}
+
+p {
+    color:black;
+    font-size: 24;
+    font-style: regular;
+    font: Montserrat;
+}
+
+li {
+    background-color: #fff;
+    color: #595959;
+    font: Montserrat;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+} */
