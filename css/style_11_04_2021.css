@@ -17,10 +17,9 @@ body {
 .main-container {
     display: flex;
     flex-direction: row-reverse;
-    max-width: 1200px;
-    /* background-color: #FFFFFF; */
+    width: 1200px;
     margin: 40px auto;
-    padding: 0px 0px;
+    /* padding: 0px 0px; */
     background: #F5F7FA;
     box-shadow: 6px 6px 20px rgba(10, 8, 22, 0.5);
 }
