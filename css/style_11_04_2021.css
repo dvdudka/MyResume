@@ -10,6 +10,7 @@ html {
 body {
     font-family: 'Montserrat', sans-serif;
     opacity: 2;
+    /* padding: 0px 0px; */
 }
 
 /* Main Container Section 1440 */
@@ -192,6 +193,10 @@ body {
 
 .education-section-link {
     color: #FB6D3A;
+}
+
+.education-diplome-link {
+    color: #fff;
 }
 
 .education-period {
